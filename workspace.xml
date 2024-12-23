@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5de139d1-70bc-4e6c-8114-46e33bb8c3d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/libraries/jfoenix_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/libraries/mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/Library-Management-System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/Qodana" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/lib/jfoenix-1.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/BookFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/BookIssueFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/BookReturnFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/BookSearchFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/HomeFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Controller/MemberFormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/books.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/issue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/members.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Model/BookIssueTM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Model/BookReturnTM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Model/BookTM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/Model/MemberTM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/BookIssueFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/BookReturnFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/BookSearchFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/BooksFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/HomeFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/View/MembersFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/db/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library-Management-System-master/src/db/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWE303_Project_Layan_Klea-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookFormController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookIssueFormController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookIssueFormController$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookIssueFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookReturnFormController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookReturnFormController$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookReturnFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookSearchFormController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/BookSearchFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/HomeFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/MemberFormController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Controller/MemberFormController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/books.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/issue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/members.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Model/BookIssueTM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Model/BookReturnTM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Model/BookTM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/Model/MemberTM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/BookIssueFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/BookReturnFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/BookSearchFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/BooksFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/HomeFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/View/MembersFormView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/db/DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Library-Management-System-master/db/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qFxcT3xgmjzlftmFxuHcgovb00" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppInitializer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Downloads/javafx-sdk-23.0.1/lib/javafx.web.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41954023",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\User\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="d6bcda5b-4342-486b-87cb-d7e5fadb8afb" />
+        <option name="reportName" value="SWE303_Project_Layan_Klea-master/qodana/2024-12-23" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\User\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="d6bcda5b-4342-486b-87cb-d7e5fadb8afb" reportId="SWE303_Project_Layan_Klea-master/qodana/2024-12-23" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="Library-Management-System-master" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\User\Downloads\javafx-sdk-23.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5de139d1-70bc-4e6c-8114-46e33bb8c3d4" name="Changes" comment="" />
+      <created>1734276416341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734276416341</updated>
+      <workItem from="1734276421581" duration="3739000" />
+      <workItem from="1734456100703" duration="369000" />
+      <workItem from="1734900384114" duration="234000" />
+      <workItem from="1734900660708" duration="3253000" />
+      <workItem from="1734963765343" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Library-Management-System-master/src/AppInitializer.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
